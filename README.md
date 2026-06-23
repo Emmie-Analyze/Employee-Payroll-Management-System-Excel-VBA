@@ -21,10 +21,10 @@ Net Pay:	Auto-calculated total
 
 **How to Download & Use**
 Direct Download
-Locate `Employee database.xlsm`
-On the top right, click the `download` icon
-Download the file
-Open `Employee database.xlsm_VBA.xlsm` in Microsoft Excel
+Click the green `Code` button at the top of this page
+Select `Download ZIP`
+Extract the ZIP file on your computer
+Open `Employee\_Payroll\_System\_VBA.xlsm` in Microsoft Excel
 
 Important: Enable Macros
 When you open the file, Excel will show a security warning.
